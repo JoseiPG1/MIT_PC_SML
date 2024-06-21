@@ -1,3 +1,5 @@
+# Parallel computing and Scientific Machine Learning
+
 In this repository I am working out every lecture of the course **Parallel computing and Scientific Machine Learning** which you can find in this [link](https://www.youtube.com/playlist?list=PLCAl7tjCwWyGjdzOOnlbGnVNZk0kB8VSa). 
 There are 25 lectures/videos
 
@@ -7,8 +9,8 @@ There are 25 lectures/videos
 - [X] Video 4: Optimizing serial code in julia.
 - [X] Video 5: Introduction to Scientific Machine Learning 1, deep learning.
 - [X] Video 6: Introduction to Scientific Machine Learning 2, physics informed neural networks.
-- [ ] Video 7: How loops works 1.
-- [ ] Video 8, How loops works 2.
+- [X] Video 7: How loops works 1, Introduction to discrete dynamical systems.
+- [ ] Video 8, How loops works 2, Computationally-Efficient Discrete Dynamics.
 - [ ] Video 9: Basis of single node parallel computing.
 - [ ] Video 10: Different flavors of parallelism.
 - [ ] Video 11: Ordinary differential equations 1.
