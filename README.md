@@ -10,7 +10,7 @@ There are 25 lectures/videos
 - [X] Video 5: Introduction to Scientific Machine Learning 1, deep learning.
 - [X] Video 6: Introduction to Scientific Machine Learning 2, physics informed neural networks.
 - [X] Video 7: How loops works 1, Introduction to discrete dynamical systems.
-- [ ] Video 8, How loops works 2, Computationally-Efficient Discrete Dynamics.
+- [X] Video 8, How loops works 2, Computationally-Efficient Discrete Dynamics.
 - [ ] Video 9: Basis of single node parallel computing.
 - [ ] Video 10: Different flavors of parallelism.
 - [ ] Video 11: Ordinary differential equations 1.
