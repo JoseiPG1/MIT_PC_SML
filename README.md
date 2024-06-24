@@ -13,8 +13,8 @@ There are 25 lectures/videos
 - [X] Video 8, How loops works 2, Computationally-Efficient Discrete Dynamics.
 - [ ] Video 9: Basis of single node parallel computing.
 - [ ] Video 10: Different flavors of parallelism.
-- [ ] Video 11: Ordinary differential equations 1.
-- [ ] Video 12: Ordinary differential equations 2.
+- [X] Video 11: Ordinary differential equations 1.
+- [X] Video 12: Ordinary differential equations 2.
 - [ ] Video 13: Forward-mode automatic differentiation (AD)
 - [ ] Video 14: Solving stiff ordinary differential equations
 - [ ] Video 15: Basic parameter estimation.
